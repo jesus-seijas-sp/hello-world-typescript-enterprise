@@ -1,2 +1,2 @@
-# hello-world-typescript-enterprise
-A hello world in typescript "enterprise"
+# Hello World Enterpise using Typescript
+Even most simple thing can be complicated in an "Enterprise" mindset.
